@@ -1,4 +1,4 @@
-<h1>:mag_right: Numeros Primos :mag:</h1>
+<h1>:mag_right: Números Primos :mag:</h1>
 <h2>📝Projeto desenvolvido para avaliação semestral da faculdade seguindo as seguintes exigencias:</h2>
 
 <ul>
@@ -9,13 +9,13 @@
 </br>
 
 <h2>:crystal_ball: Exemplo de execução: :crystal_ball:</h2>
-Digite o 1°. número inteiro positivo: 17</br>
+Digite o 1° número inteiro positivo: 17</br>
 Divisível por 1.</br>
 Divisível por 17.</br>
 17 é um número primo.</br>
 </br>
 
-Digite o 2o. número inteiro positivo: 10</br>
+Digite o 2° número inteiro positivo: 10</br>
 Divisível por 1.</br>
 Divisível por 2.</br>
 Divisível por 5.</br>
